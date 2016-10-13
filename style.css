@@ -3,7 +3,7 @@ h2 {
 	font-size: 35;
 	text-align: center;
 }
-img {
+#background {
 	height: 100%;
 	width: auto;
 	background-position: fixed;
