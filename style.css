@@ -23,7 +23,8 @@ div {
 	margin-right: 15%;
 }
 img {
-    display: block;
+    display: inline-block;
     margin-left: auto;
     margin-right: auto; 
     height: 200px;
+}
