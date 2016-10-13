@@ -6,7 +6,7 @@ h2 {
 #background {
 	height: 100%;
 	width: auto;
-	background-position: fixed;
+	background-position: center;
 	margin-top:  0px;
 	margin-left: 0px;
 	z-index: -100;
