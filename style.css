@@ -26,3 +26,10 @@ img {
     margin-right: auto; 
     height: 200px;
 }
+img p div {
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 15;
+	text-align: center;
+	margin-left: 15%;
+	margin-right: 15%;
+}
