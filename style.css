@@ -1,24 +1,25 @@
-body [
-	background-color: #FFFFFF;
-
-]
 h2 {
 	font-family: impact, Charcoal, sans-serif;
 	font-size: 28;
+	text-align: center;
 }
 h3 {
 	font-family: impact, Charcoal, sans-serif;
 	font-size: 23;
+	text-align: center;
 }
 p {
 	font-family: Tahoma, Geneva, sans-serif;
 	font-size: 17;
+	text-align: center;
 }
 div {
 	font-family: Tahoma, Geneva, sans-serif;
 	font-size: 20;
+	text-align: center;
 }
 img {
 	height: 150px;
+	text-align: center;
 	
 }
