@@ -12,6 +12,8 @@ p {
 	font-family: Tahoma, Geneva, sans-serif;
 	font-size: 17;
 	text-align: center;
+	margin-left: 50%;
+	margin-right: 50%;
 }
 div {
 	font-family: Tahoma, Geneva, sans-serif;
