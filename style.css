@@ -17,19 +17,13 @@ p {
 }
 div {
 	font-family: Tahoma, Geneva, sans-serif;
-	font-size: 20;
+	font-size: 15;
 	text-align: center;
+	margin-left: 15%;
+	margin-right: 15%;
 }
 img {
     display: block;
     margin-left: auto;
     margin-right: auto; 
     height: 200px;
-}
-h3 img p div {
-	font-family: Tahoma, Geneva, sans-serif;
-	font-size: 15;
-	text-align: center;
-	margin-left: 15%;
-	margin-right: 15%;
-}
