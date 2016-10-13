@@ -1,5 +1,6 @@
 * {
-	position: fixed;
+	position: relative
+;
 }
 h2 {
 	font-family: impact, Charcoal, sans-serif;
